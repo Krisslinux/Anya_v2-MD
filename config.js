@@ -16,21 +16,21 @@ module.exports = {
     /**
      * owner details and parameters
      */
-    ownername: process.env.Owner_Name || "Pika~Kun",
-    ownernumber: process.env.Owner_Number || "916900904828",
+    ownername: process.env.Owner_Name || "Krisslinux",
+    ownernumber: process.env.Owner_Number || "2349160878368",
     instagramId: process.env.Insta || "3.69_pika",
 
     /**
      * other details and parameters
      */
-    author: process.env.Author || "@PikaBotz",
-    packname: process.env.PackName || "Queen Anya v2 MD",
+    author: process.env.Author || "Anony kriss",
+    packname: process.env.PackName || "Kriss",
     socialLink: process.env.Web || "https://github.com/PikaBotz",
-    groupLink: process.env.GcLink || "https://chat.whatsapp.com/E490r0wSpSr89XkCWeGtnX",
+    groupLink: process.env.GcLink || "",
     warns: Number(process.env.Warn_Limits) || 3,
     cooldown: 5, // default cooldown time per command in seconds
     mongoUrl: process.env.MongoDB || "mongodb+srv://Kriss:Boluwatife99@cluster0.gnwpzxk.mongodb.net/?retryWrites=true&w=majority",
-    sessionId: process.env.SESSION_ID || "WEk1Q1hieFIjT2I4c3JuWXh0dW1jbVBvQjk1a_Queen-Anya_ElXZmE3M3la_Queen-Anya_N1FNc3NYNW80YmpBcUs3UQ==",
+    sessionId: process.env.SESSION_ID || "NmRZ_Queen-Anya_aWdSeVkjRzhCeG0zek1YOC1GdWctZ_Queen-Anya_C11Z_Queen-Anya_Elqb1Bpa0FYVnF3Z_Queen-Anya_WxGZ_Queen-Anya_E9xd2dzNllDcw==",
 
     /**
      * thumbnails and medias
